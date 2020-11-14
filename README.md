@@ -26,3 +26,5 @@ optimize and refactor app logic and queries. As version control we use git and f
 This is a summary of create, run, monitor campaigns in telegram and I'm responsible for whole these processes and I have
 to  maintain, monitor workflow, check logs and issues to refactor bottlenecks and improve bot performance and queries.
 I really like to make better queries and improve app logic by test and getting execution time and check benchmarks.
+
+https://t.me/admood_bot/
